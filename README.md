@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>README - BD-25.1</title>
+<!--   <title> README - BD-25.1 </title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -45,7 +45,7 @@
       color: #888;
       margin-top: 40px;
     }
-  </style>
+  </style> -->
 </head>
 <body>
   <div class="container">
