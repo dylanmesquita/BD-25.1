@@ -5,50 +5,61 @@
   <title>README - BD-25.1</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f9f9f9;
-      color: #333;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f4;
+      color: #222;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+    .container {
+      background: #fff;
+      max-width: 700px;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
     }
     h1 {
-      color: #004080;
+      font-size: 28px;
+      margin-bottom: 10px;
+      color: #2a4d7c;
     }
     h2 {
-      color: #0059b3;
+      font-size: 20px;
+      margin-top: 30px;
+      color: #2a4d7c;
     }
     ul {
+      margin: 10px 0;
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 6px;
+    }
+    p {
       line-height: 1.6;
     }
-    .box {
-      background-color: #ffffff;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 20px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      max-width: 800px;
+    .footer {
+      font-size: 14px;
+      color: #888;
+      margin-top: 40px;
     }
   </style>
 </head>
 <body>
-  <div class="box">
+  <div class="container">
     <h1>📁 BD-25.1</h1>
-    <p>Este diretório tem como finalidade armazenar conteúdos relacionados à disciplina de Banco de Dados (BD), especificamente para a turma 25.1.</p>
-
-    <h2>📚 Conteúdo da pasta:</h2>
+    <p>Esta pasta contém materiais da disciplina de Banco de Dados, turma 25.1.</p>
+    <h2>Conteúdo:</h2>
     <ul>
-      <li><strong>Avaliações:</strong> Provas escritas e questionários.</li>
-      <li><strong>Exercícios:</strong> Atividades práticas e teóricas sobre modelagem, SQL, etc.</li>
-      <li><strong>Provas Práticas:</strong> Avaliações com foco em comandos SQL, consultas, criação de tabelas, e outros.</li>
+      <li>Avaliações</li>
+      <li>Exercícios</li>
+      <li>Provas práticas</li>
     </ul>
-
-    <h2>🔖 Observações:</h2>
-    <ul>
-      <li>Todo material é de uso interno e exclusivo da turma BD-25.1.</li>
-      <li>Manter os arquivos organizados e nomeados corretamente para facilitar o acesso.</li>
-      <li>Atualize este arquivo caso novas seções sejam adicionadas ao conteúdo.</li>
-    </ul>
-
-    <p><em>Última atualização: 07 de julho de 2025</em></p>
+    <div class="footer">
+      Última atualização: 07/07/2025
+    </div>
   </div>
 </body>
 </html>
