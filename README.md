@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-<!--   <title> README - BD-25.1 </title>
+<title> README - BD-25.1 </title>
   <style>
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -58,7 +58,7 @@
       <li>Provas práticas</li>
     </ul>
     <div class="footer">
-      Última atualização: 07/07/2025
+      Última atualização: 16/07/2025
     </div>
   </div>
 </body>
